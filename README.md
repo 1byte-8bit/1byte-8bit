@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandr</h1>
 
-
-<img title="a title" alt="Alt text" src="https://github.com/1byte-8bit/1byte-8bit/blob/main/main_image.png?raw=true">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1byte-8bit&label=Profile%20views&color=0e75b6&style=flat" alt="1byte-8bit" /> </p>
 
 <h3 align="left">Connect with me:</h3>
